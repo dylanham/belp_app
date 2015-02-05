@@ -15,4 +15,10 @@
  */
  @import "bootstrap-sprockets";
  @import "bootstrap";
- body { padding-top: 70px; }
+ body {
+   padding-top: 70px;
+  }
+ nav#yellow-nav.navbar.navbar-inverse.navbar-fixed-top
+ {
+   background-color:yellow !important;
+ }
